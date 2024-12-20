@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "firstname": "Yuri",
+    "secondname": "Gagarin",
+    "age": 33,
+    "city": "Kursk"
+  },
+  {
+    "id": 2,
+    "firstname": "Anatoli",
+    "secondname": "Barigin-Amurski",
+    "age": 38,
+    "city": "Odessa"
+  },
+  {
+    "id": 4,
+    "firstname": "Максим",
+    "secondname": "Перевалов",
+    "age": 27,
+    "city": "Пермь"
+  }
+]
